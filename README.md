@@ -1,3 +1,3 @@
 GPTEST 
 
-SDL2 + SDL2_ttf C program to test R36S Joysticks and Buttons.
+Visual test for R36S Joysticks and Buttons using SDL2 + SDL2_ttf.
